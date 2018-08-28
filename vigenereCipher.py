@@ -1,8 +1,1 @@
-def vigenereCrpt(key,message):
-    
-
-
-
-    
-
- 
+print("real")
