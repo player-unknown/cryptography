@@ -1,0 +1,8 @@
+def vigenereCrpt(key,message):
+    
+
+
+
+    
+
+ 
